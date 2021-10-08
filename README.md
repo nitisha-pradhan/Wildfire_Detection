@@ -13,7 +13,7 @@ The model to determine whether given image is of wildfire or not is made using C
 The model is saved as an h5 file. <br>
 Flask is used for deployment of project. <br>
 HTML, CSS and JS are used as well to make the flask web app. <br>
-
+Note: The Wildfire_Detection.ipynb is the notebook for the model.
 - - - -
 
 
